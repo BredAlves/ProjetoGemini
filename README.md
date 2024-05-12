@@ -17,7 +17,7 @@ genai.configure(api_key=GOOGLE_API_KEY)
 E a insira no local sinalizado nesse trexo do código.
 
 ## Observações
-algumas instruções foram passadas para a IA dentro do contexto para tentar minimizar algumas interações in compativeis e minimizar algumas alucinações que surgiram nos primeiros testes.
+algumas instruções foram passadas para a IA dentro do contexto para tentar minimizar algumas interações incompativeis e minimizar algumas alucinações que surgiram nos primeiros testes.
 
 
 - Versão 1 - 11/05
