@@ -6,6 +6,12 @@ O projeto em questão foi desenvolvido para o desafio proposto durante a Imersã
 O projeto foi desenvolvido em Python, com a integração da GenAI. A proposta é utilizar a IA, para fazer levantamento de informações de uma forma mais eficaz que um questionário simples. E instruir o usuário ao final.
 
 ## Recomendações
+Caso não tenha o pacote da GenAI, é necessário antes de executar o código fazer a instalação do mesmo.
+```
+pip install -q -U google-generativeai
+```
+
+
 como foi desenvolvido no Vscode, a APIKEY foi remvoida do codigo ao upa-lo para o repositório. gere a sua no
 
 - [AI Studio](https://aistudio.google.com/)
