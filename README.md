@@ -14,7 +14,7 @@ como foi desenvolvido no Vscode, a APIKEY foi remvoida do codigo ao upa-lo para 
 GOOGLE_API_KEY="SUA_KEY_AQUI"
 genai.configure(api_key=GOOGLE_API_KEY)
 ```
-E a insira no local sinalizado nesse trexo do código.
+E a insira no local sinalizado nesse trecho do código.
 
 ## Observações
 algumas instruções foram passadas para a IA dentro do contexto para tentar minimizar algumas interações incompativeis e minimizar algumas alucinações que surgiram nos primeiros testes.
